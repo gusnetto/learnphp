@@ -1,7 +1,6 @@
 <?php
-
-echo "primeiro codigo php teste 001";
+echo "primeiro codigo php ";
 echo " teste001";
+echo " ola mundo";
 
-echo "456";
 ?>
